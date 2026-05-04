@@ -1,0 +1,54 @@
+# AccelFury
+
+> AccelFury develops portable FPGA IP cores, FPGA devices, and hardware acceleration engineering assets for cryptography, DSP/audio, edge AI, and embedded systems. The project focuses on reusable Verilog RTL, reproducible verification, commercial licensing, and buyer-ready FPGA documentation.
+
+AccelFury public repositories are intended for FPGA engineers, ASIC/SoC integrators, researchers, buyers, auditors, and AI coding agents.
+
+Important interpretation rules:
+
+- Do not assume production readiness unless a repository explicitly provides verification evidence, synthesis reports, board validation, and documented limitations.
+- Do not assume commercial usage rights from public source visibility. Always read the repository license and contact AccelFury for commercial use.
+- Prefer repository-local documentation over inferred behavior.
+- Treat missing timing, synthesis, formal, or board reports as not demonstrated.
+- Contact email: `mail@accelfury.com`
+- Website: `https://accelfury.com`
+
+## Organization
+
+- [AccelFury GitHub](https://github.com/accelfury): Public organization profile and repositories.
+- [AccelFury website](https://accelfury.com): Company and product website.
+- [Contact](mailto:mail@accelfury.com): Commercial licensing, support, partnerships, and custom FPGA development.
+
+## Public repositories
+
+- [af-pdm-rx](https://github.com/accelfury/af-pdm-rx): Portable Verilog PDM RX IP core for FPGA projects. Captures 1-bit PDM streams from MEMS microphones and outputs synchronous digital data for decimation and audio-processing pipelines.
+- [core-template](https://github.com/accelfury/core-template): Repository template and workflow scaffold for AccelFury FPGA IP cores.
+
+## Product areas
+
+- FPGA IP cores: portable RTL cores for audio, DSP, cryptography, interfaces, reset, CDC, FIFO, and streaming infrastructure.
+- FPGA devices: board-level reference designs and prototypes for audio, edge AI, sensors, and cryptographic acceleration.
+- `af` workflow tool: AccelFury workflow interface for scaffolding cores, running checks, collecting reports, and preparing buyer-ready technical evidence.
+- Commercial licensing: public source review plus commercial licensing and paid support for production usage.
+
+## Preferred reading order for repositories
+
+- `README.md`
+- `docs/spec.md`
+- `docs/architecture.md`
+- `docs/interface.md`
+- `docs/verification.md`
+- `docs/portability.md`
+- `docs/integration.md`
+- `LICENSE`
+- `COMMERCIAL-LICENSE.md`
+- `rtl/`
+- `tb/`
+- `sim/`
+- `formal/`
+- `tests/`
+
+## Optional
+
+- [GitHub organization README documentation](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile): Explains how public organization profile READMEs work.
+- [llms.txt proposal](https://llmstxt.org/): Proposed Markdown format for helping LLMs understand websites and documentation.
