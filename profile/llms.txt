@@ -1,0 +1,23 @@
+# AccelFury
+
+> AccelFury develops reusable IP and development tools for specialized compute, starting with FPGA and explicit integration and verification contracts.
+
+Portability means separating reusable logic and component contracts from target-specific integration. Support requires evidence for each component, version and target. Additional targets are a development direction, not a current support claim.
+
+## Products and information
+
+- [IP components](https://accelfury.com/ip-cores/): component contracts, access and scoped verification. af-pdm-rx receives raw PDM; it does not convert PDM to PCM or provide CIC/FIR processing.
+- [af](https://accelfury.com/products/af/): IP development toolchain; consult the product record for current status, access and workflow limitations.
+- [Developers](https://accelfury.com/developers/): evaluation and integration path.
+- [Enterprise](https://accelfury.com/enterprise/): scoped engineering and licensing discussions.
+- [Machine-readable product records](https://accelfury.com/data/products.json): canonical lifecycle, availability and evidence fields.
+
+## Interpretation
+
+- A public product page does not imply public source or a downloadable package.
+- Keep lifecycle, access and verification separate. Reported results are not independently reviewed passes.
+- Missing reports mean unknown results; do not infer failure or that checks were never run.
+- Do not infer all-vendor portability, board qualification, production readiness or available ASIC products.
+- Read each component's license; the website license does not license the IP.
+
+Contact: [mail@accelfury.com](mailto:mail@accelfury.com). Start with a non-confidential summary.
