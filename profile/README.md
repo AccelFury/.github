@@ -2,14 +2,14 @@
 
 **Hardware acceleration for specialized compute.**
 
-AccelFury develops reusable hardware IP and development tools, starting with FPGA.
+We develop reusable hardware IP and development tools, starting with FPGA.
 
-- **[IP components](https://accelfury.com/ip-cores/)** — reusable RTL with defined interfaces and verification scope.
-- **[af](https://accelfury.com/products/af/)** — the AccelFury IP development toolchain.
-- **[Engineering](https://accelfury.com/enterprise/)** — component evaluation, adaptation and integration with agreed deliverables.
+- **[IP components](https://accelfury.com/ip-cores/)** — reusable logic with defined interfaces.
+- **[af toolchain](https://accelfury.com/products/af/)** — tools for IP development and integration.
+- **[Engineering](https://accelfury.com/enterprise/)** — component evaluation, adaptation and integration.
 
-We design for portability by separating component logic from target-specific integration. Support is qualified per component, version and target.
+We separate component logic from target-specific integration. Portability is assessed for each component, version and target.
 
-Availability, licensing and verification evidence are listed on each product page.
+Product pages describe availability, licensing and verification results.
 
-[Website](https://accelfury.com/) · [Developer resources](https://accelfury.com/developers/) · [Discuss your workload](mailto:mail@accelfury.com)
+[Website](https://accelfury.com/) · [Developers](https://accelfury.com/developers/) · [Contact](mailto:mail@accelfury.com)

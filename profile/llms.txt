@@ -1,8 +1,8 @@
 # AccelFury
 
-> AccelFury develops reusable IP and development tools for specialized compute, starting with FPGA and explicit integration and verification contracts.
+> AccelFury develops reusable hardware IP and development tools for specialized compute, starting with FPGA.
 
-Portability means separating reusable logic and component contracts from target-specific integration. Support requires evidence for each component, version and target. Additional targets are a development direction, not a current support claim.
+Component logic is separated from target-specific integration. Portability is assessed for each component, version and target; additional targets are a development direction.
 
 ## Products and information
 

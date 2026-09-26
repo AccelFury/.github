@@ -14,7 +14,7 @@ Public description centers on acceleration, specialized compute and portability.
 
 Current offers are IP components, the af development toolchain and scoped engineering. Industrial/instrumentation and edge AI/robotics are workload directions; cryptography/ZK is a research direction. These are not a list of completed products or customer systems.
 
-Use concise English prose, specific nouns and direct statements. Avoid slogans stacked into paragraphs, superlatives, invented benchmarks and long capability lists. Keep the profile near 100 words and link to product records for detailed access, lifecycle, licensing and evidence.
+Use concise English prose, specific nouns and direct statements. Avoid slogans stacked into paragraphs, superlatives, invented benchmarks and long capability lists. Keep the rendered profile within 90 words: one category line, one introduction, three offer links, one portability statement and direct contacts. Link to product records for access, lifecycle, licensing and evidence. Do not add badge walls, invented product imagery, repeated slogans or internal editorial explanations. Material product limitations must remain accessible.
 
 Canonical website messaging: `accelfury/webapp/scripts/content/messaging.mjs`; visual and voice rules: `accelfury/brand/BRANDBOOK.md`. Relative locations depend on the workspace. Public fact reference: https://accelfury.com/data/products.json.
 
